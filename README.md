@@ -3,7 +3,7 @@
 
 The indices of extreme precipitation are a set of climate indices that are used to assess changes in the frequency, intensity, and duration of extreme precipitation events over time. These indices are used to monitor and detect changes in the occurrence and intensity of extreme precipitation events, which can be important indicators of climate change.
 
-Indices of extreme precipitation include in the java script codes are:
+Indices of extreme precipitation included in the two java script codes are:
  1) CDD: Consecutive Dry Days 
  2) CWD: Consecutive Wet Days 
  3) PRCPTOT: annual total precip  (mm/year)
