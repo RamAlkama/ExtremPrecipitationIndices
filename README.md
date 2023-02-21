@@ -1,5 +1,5 @@
 # Extreme precipitation indices In Google Earth Engine 
-# Two examples are used here: ERA5 and CHIRPS data 
+# In this context, a couple of illustrations are provided: ERA5 and CHIRPS data 
 
 The indices of extreme precipitation are a set of climate indices that are used to assess changes in the frequency, intensity, and duration of extreme precipitation events over time. These indices are used to monitor and detect changes in the occurrence and intensity of extreme precipitation events, which can be important indicators of climate change.
 
